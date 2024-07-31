@@ -1,0 +1,18 @@
+Snake body - 
+movement   +
+length 
+turning  +
+design =
+properties = 
+
+Fruit -
+Appearance
+Dissapearance
+Properties
+
+Wall-
+Touch / not touching properties.
+
+
+Background - 
+option to change colour. =
